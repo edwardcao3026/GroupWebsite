@@ -45,8 +45,8 @@ avatar: "/img/Edward.jpg"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-#page-col: "#FFFFFF"
-page-img:"/img/Wuzhen1.png"
+page-col: "#FFFFFF"
+#page-img:"/img/Wuzhen1.png"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "zcao@ecust.edu.cn"
-  #googlescholar: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
 
 # Select which share links to show in posts
 share-links-active:
