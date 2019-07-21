@@ -3,7 +3,7 @@ layout: page
 title: "Publication"
 bigimg: /img/Wuzhen4.png
 ---
-## Selected Journal Publication (Peer Reviewed)
+## Peer-reviewed Journal Publication
 (Corresponding authorship is denoted by <sup>*</sup>)
 
 ### 2019
