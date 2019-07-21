@@ -4,6 +4,9 @@ title: "Curriculum Vitae"
 subtitle: "Hometown: Tongxiang, Zhejiang"
 bigimg: /img/Wuzhen2.png
 ---
+## Zhixing Cao (Edward), Professor, PhD
+## 曹志兴，教授，博导
+
 ### Background
 * BEng _(2008-2012)_
   * **Zhejiang University**
