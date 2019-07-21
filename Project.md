@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project"
-bigimg: /img/Wuzhen6.jpeg
+bigimg: /img/Wuzhen6.png
 ---
 
 ### How does mRNA polymerase affect transcriptional dynamics?
