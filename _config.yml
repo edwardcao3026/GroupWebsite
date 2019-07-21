@@ -4,7 +4,7 @@
 title: Cao Group
 
 # Short description of your site
-description: Zhixing Cao's group @ East China University of Science and Technology, Shanghai
+description: East China University of Science and Technology, Shanghai
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -12,6 +12,8 @@ description: Zhixing Cao's group @ East China University of Science and Technolo
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
+
+bigimg: "/img/Wuzhen1.jpeg"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -43,7 +45,8 @@ avatar: "/img/Edward.jpg"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+#page-col: "#FFFFFF"
+page-img:"/img/Wuzhen1.jpeg"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -55,8 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/bgimage.png"
-bigimg: "/img/Wuzhen1.jpeg"
+#page-img: "/img/bgimage.png"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -71,6 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "zcao@ecust.edu.cn"
+  googlescholar: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
 
 # Select which share links to show in posts
 share-links-active:
