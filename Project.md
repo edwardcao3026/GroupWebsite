@@ -3,7 +3,6 @@ layout: page
 title: "Project"
 bigimg: /img/Wuzhen6.png
 ---
-
 ### How does mRNA polymerase affect transcriptional dynamics?
 ### 定量探究mRNA聚合酶对于转录的动态影响
 ![](/img/polymerase.png)
