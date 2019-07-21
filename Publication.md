@@ -6,7 +6,7 @@ bigimg: /img/Wuzhen4.png
 ## Selected Journal Publication (Peer Reviewed)
 
 ### 2019
-* Lu, J., **Cao, Z.**<sup>*<sup>, Gao, F. (2018). [Multi-point Iterative Learning Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
+* Lu, J., **Cao, Z.**<sup>*<\sup>, Gao, F. (2018). [Multi-point Iterative Learning Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
 
 ### 2018
 * **Cao, Z.**, Grima, R. (2018). [Linear mapping approximation of gene regulatory networks with stochastic dynamics](https://www.nature.com/articles/s41467-018-05822-0.pdf). _Nature communications_, 9(1), 3305. (IF 12.353)
