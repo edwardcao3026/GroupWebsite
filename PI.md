@@ -5,10 +5,7 @@ subtitle: "Hometown: Tongxiang, Zhejiang"
 bigimg: /img/Wuzhen2.png
 ---
 ## Zhixing Cao (Edward), Professor
-## 曹志兴，教授，博导
-
-
-
+## 曹志兴, 教授, 博士生导师
 
 ### Background
 * BEng _(2008-2012)_
