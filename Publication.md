@@ -18,6 +18,8 @@ bigimg: /img/Wuzhen4.png
 
 * **Cao, Z.**, Lu, J., Zhang, R., Gao, F. (2018). [Online average-based system modelling method for batch process](https://www.sciencedirect.com/science/article/pii/S0098135417303101). _Computers & Chemical Engineering_, 108, 128-138.
 
+* Zhang, R., Wu, S., **Cao, Z.**, Lu, J., Gao, F. (2018). [A systematic min–max optimization design of constrained model predictive tracking control for industrial processes against uncertainty](https://ieeexplore.ieee.org/abstract/document/8036408). _IEEE Transactions on Control Systems Technology_, 26(6), 2157-2164.
+
 
 ### 2017
 * **Cao, Z.**, Dürr, H. B., Ebenbauer, C., Allgöwer, F., Gao, F. (2017). [Iterative learning and extremum seeking for repetitive time-varying mappings](https://ieeexplore.ieee.org/abstract/document/7762820). _IEEE Transactions on Automatic Control_, 62(7), 3339-3353.
@@ -45,3 +47,7 @@ bigimg: /img/Wuzhen4.png
 
 ### 2014
 * **Cao, Z.**, Yang, Y., Lu, J., Gao, F. (2014). [Constrained two dimensional recursive least squares model identification for batch processes](https://www.sciencedirect.com/science/article/pii/S095915241400095X). _Journal of Process Control_, 24(6), 871-879.
+
+* Zhang, R., **Cao, Z.**, Bo, C., Li, P., Gao, F. (2014). [New PID controller design using extended nonminimal state space model based predictive functional control structure](https://pubs.acs.org/doi/abs/10.1021/ie403924p). _Industrial & Engineering Chemistry Research_, 53(8), 3283-3292.
+
+* Zhang, R., **Cao, Z.**, Li, P., Gao, F. (2014). [Design and implementation of an improved linear quadratic regulation control for oxygen content in a coke furnace](https://ieeexplore.ieee.org/document/6892173). _IET Control Theory & Applications_, 8(14), 1303-1311.
