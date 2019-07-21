@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curriculum Vitae
-subtitle: Wuzhen (hometown), Photograph provider: Y. Shi
+title: "Curriculum Vitae"
+subtitle: "Tongxiang (hometown), Photograph provided by Y. Shi"
 bigimg: /img/Wuzhen2.png
 ---
 ### Background
