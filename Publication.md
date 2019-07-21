@@ -22,6 +22,8 @@ bigimg: /img/Wuzhen4.png
 ### 2017
 * **Cao, Z.**, Dürr, H. B., Ebenbauer, C., Allgöwer, F., Gao, F. (2017). [Iterative learning and extremum seeking for repetitive time-varying mappings](https://ieeexplore.ieee.org/abstract/document/7762820). _IEEE Transactions on Automatic Control_, 62(7), 3339-3353.
 
+* Lu, J., **Cao, Z.**, Gao, F. (2017). [Batch process control-overview and outlook](http://www.aas.net.cn/CN/abstract/abstract19071.shtml). _Acta Automatica Sinica_, 43(6), 933-943.
+
 ### 2016
 * **Cao, Z.**, Lu, J., Zhang, R., Gao, F. (2016). [Iterative learning Kalman filter for repetitive processes](https://www.sciencedirect.com/science/article/pii/S0959152416301044). _Journal of Process Control_, 46, 92-104.
 
