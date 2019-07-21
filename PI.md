@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-subtitle: "Tongxiang (hometown), Photograph provided by Y. Shi"
+subtitle: "Hometown, Tongxiang"
 bigimg: /img/Wuzhen2.png
 ---
 ### Background
@@ -29,6 +29,26 @@ bigimg: /img/Wuzhen2.png
   * School of Biological Sciences
   * _Hosted by_: Professor [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html), Dr. [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/)
   
+* Professor & PI _(2019-present)_
+  * **East China Univeristy of Science and Technology**
+  * College of Information Science and Engineering
+  
 ### Awards
-* National Scholarship
-* Seal of Excellence, H2020 Marie Sodowasky Curie Actions, 2019
+* BEng. period:
+ * National Scholarship of Ministry of Education of China
+ 
+* PhD period:
+ * Hong Kong PhD Fellowship
+ * Oversea Research Award
+ * Chan & Wong Best Postgraduate Award _(Award committee chairman: Professor [Guohua Chen](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html) FAIChE)_
+ 
+* Postdoctoral period:
+ * Outstanding Reviewer of Journal:
+  * _ISA Transactions_
+  * _Chemometrics and Intelligent Laboratory Systems_
+  * _Journal of Process Control_
+  * _Industrial & Engineering Chemistry Research_
+ * Seal of Excellence, H2020 Marie Sklodowska Curie Actions
+
+* PI period:
+ * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
