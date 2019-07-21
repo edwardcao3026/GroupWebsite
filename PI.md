@@ -8,6 +8,7 @@ bigimg: /img/Wuzhen2.png
 * BEng _(2008-2012)_
   * **Zhejiang University**
   * Department of Control Science and Engineering
+  * _GPA: 3.95/4, Rank: 2/118_
   
 * PhD _(2012-2016)_
   * **Hong Kong University of Science and Technology**
