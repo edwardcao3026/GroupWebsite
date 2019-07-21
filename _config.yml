@@ -21,9 +21,10 @@ description: Edward Cao
 # List of links in the navigation bar
 navbar-links:
   About Me: "PI"
-  People:
-    - Gourp Member: "Member"
-    - Research: "Research"
+  Research: "Research"
+  People: 
+    - Member: "Member"
+    - Collaborator: "Collaborator"
   Publication: "Publication"
   Contact: "Contact"
 
