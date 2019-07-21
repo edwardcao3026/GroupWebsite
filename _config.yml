@@ -22,7 +22,7 @@ description: East China University of Science and Technology, Shanghai
 navbar-links:
   About Me: "aboutme.md"
   People:
-    - PI: "/PI.html"
+    - PI: "PI"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Publication:
     - Learn markdown: "http://www.markdowntutorial.com/"
