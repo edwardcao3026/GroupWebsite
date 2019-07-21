@@ -5,7 +5,7 @@ subtitle: "Hometown: Tongxiang, Zhejiang"
 bigimg: /img/Wuzhen2.png
 ---
 ## Zhixing Cao (Edward), Professor
-## 曹志兴, 教授, 博士生导师
+## 曹志兴, 教授, 博士生导师    1990年1月，浙江桐乡
 
 ### Background
 * BEng _(2008-2012)_
@@ -21,7 +21,7 @@ bigimg: /img/Wuzhen2.png
 * Visitor _(2015.2-2015.5)_
   * **University of Stuttgart**
   * Institute of Systems Theory and Automatic Control
-  * _Hosted by_: Professor [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/)
+  * _Hosted by_: Professor [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/), Professor [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/)
   
 * Postdoctoral Fellow _(2016-2017)_
   * **Harvard University**
