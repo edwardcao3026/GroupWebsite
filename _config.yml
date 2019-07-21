@@ -21,11 +21,12 @@ description: Edward Cao
 # List of links in the navigation bar
 navbar-links:
   About Me: "PI"
-  Research: "Research"
+  Research: 
+    - Project: "Project"
+    - Publication: "Publication"
   People: 
-    - Member: "Member"
+#    - Member: "Member"
     - Collaborator: "Collaborator"
-  Publication: "Publication"
   Contact: "Contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
