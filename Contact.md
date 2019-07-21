@@ -12,10 +12,13 @@ East China University of Science and Technology
 华东理工大学信息科学与工程学院  
 上海市梅陇路130号，200237
 
+![](/img/map.png)
+
 ### Email  
 zcao (at) ecust (dot) edu (dot) cn
 
 
 
 ##### Photograph (of Wuzhen, Tongxiang) by courtesy of Y. Shi and R. Shen
+![](/img/hometown.png)
 
