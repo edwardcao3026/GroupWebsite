@@ -17,6 +17,6 @@ bigimg: /img/Wuzhen5.png
 * Prof. [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/), University of Stuttgart, Germany
 
 ### United States
-* Prof. Francis J. Doyle, Harvard University
-* Prof. Shen Zeng, Washington University, St. Lious
-* Prof. Suyang Lin, New York Univeristy
+* Prof. [Francis J. Doyle](https://www.seas.harvard.edu/directory/frankdoyle), Harvard University
+* Prof. [Shen Zeng](https://engineering.wustl.edu/Profiles/Pages/Shen-Zeng.aspx), Washington University in St. Lious
+* Prof. [Suyang Lin](https://cims.nyu.edu/~sling/), New York Univeristy
