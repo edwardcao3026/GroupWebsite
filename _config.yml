@@ -13,8 +13,6 @@ description: East China University of Science and Technology, Shanghai
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
 
-# bigimg: "/img/Wuzhen1.jpeg"
-
 # baseurl should be an empty string
 #baseurl: ""
 
@@ -24,7 +22,7 @@ description: East China University of Science and Technology, Shanghai
 navbar-links:
   About Me: "aboutme.md"
   People:
-    - PI: "/test2.html"
+    - PI: "/_posts/2015-02-26-flake-it-till-you-make-it.md"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Publication:
     - Learn markdown: "http://www.markdowntutorial.com/"
