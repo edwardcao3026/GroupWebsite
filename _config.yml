@@ -69,6 +69,8 @@ social-network-links:
   rss: true
   email: "zcao@ecust.edu.cn"
   github: "https://github.com/edwardcao3026"
+  google: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Zhixing_Cao"
 
 # Select which share links to show in posts
 share-links-active:
