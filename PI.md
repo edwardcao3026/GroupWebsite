@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-subtitle: "Hometown, Tongxiang"
+subtitle: "Hometown: Tongxiang, Zhejiang"
 bigimg: /img/Wuzhen2.png
 ---
 ### Background
@@ -53,3 +53,17 @@ bigimg: /img/Wuzhen2.png
 
 * PI period:
   * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
+  
+### Professional Service
+  * Member of Society of Plastics Engineers
+  * Guest Editor of _Journal of Control Science and Engineering_
+  * Reviewer of _IEEE TAC, IEEE TIE, IEEE TBME, IEEE TCST, J Royal Soc Interface, J Process Contr, Ind Eng Chem Res, ISA T, Chemom Intell Lab Syst, Comput Chem Eng, Can J Chem Eng, Math Biosci, Algorithms, Processes, Sensors and Conferences CDC, ACC, IFAC WC._
+
+### Invited Talks
+  * **Tenure-track talk** at Department of Chemical Engineering, University of Waterloo, 2019
+  * **Tenure-track talk** at Department of Chemical and Biological Engineering, Univeristy of British Columbia, 2018
+  * College of Electrical Engineering and Control Science, Nanjing University of Technology, 2018
+  * Mathematical Biology Seminars, Univeristy of Edinburgh, 2017
+  * Stephen Duncan's Group, Univeristy of Oxford, 2017
+  * Departmental Seminar, CBME, Hong Kong Univeristy of Science and Technology, 2017
+  * Johan Paulsson's Group, Harvard Medical School, 2017
