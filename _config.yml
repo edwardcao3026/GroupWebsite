@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/Wuzhen1.png"
+big-img: "/img/Wuzhen1.png"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -72,7 +72,7 @@ author:
 social-network-links:
   rss: true
   email: "zcao@ecust.edu.cn"
-  googlescholar: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
+  github: "https://github.com/edwardcao3026"
 
 # Select which share links to show in posts
 share-links-active:
