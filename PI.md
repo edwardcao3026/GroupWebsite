@@ -31,7 +31,7 @@ bigimg: /img/Wuzhen2.png
 * Postdoctoral Fellow _(2017-2019)_
   * **The University of Edinburgh**
   * School of Biological Sciences
-  * _Hosted by_: Professor [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html), Dr. [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/)
+  * _Hosted by_: Professor [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html), Dr. [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/), Professor [Peter Swain](http://swainlab.bio.ed.ac.uk)
   
 * Professor & PI _(2019-present)_
   * **East China Univeristy of Science and Technology**
