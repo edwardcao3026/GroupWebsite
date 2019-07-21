@@ -45,10 +45,10 @@ bigimg: /img/Wuzhen2.png
  
 * Postdoctoral period:
   * Outstanding Reviewer of Journal:
-  * _ISA Transactions_
-  * _Chemometrics and Intelligent Laboratory Systems_
-  * _Journal of Process Control_
-  * _Industrial & Engineering Chemistry Research_
+    * _ISA Transactions_
+    * _Chemometrics and Intelligent Laboratory Systems_
+    * _Journal of Process Control_
+    * _Industrial & Engineering Chemistry Research_
   * Seal of Excellence, H2020 Marie Sklodowska Curie Actions
 
 * PI period:
