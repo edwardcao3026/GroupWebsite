@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   email: "zcao@ecust.edu.cn"
-  googlescholar: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
+  #googlescholar: "https://scholar.google.com.hk/citations?user=nFoERgMAAAAJ&hl=en"
 
 # Select which share links to show in posts
 share-links-active:
