@@ -4,6 +4,7 @@ title: "Publication"
 bigimg: /img/Wuzhen4.png
 ---
 ## Selected Journal Publication (Peer Reviewed)
+(Corresponding authorship is denoted by <sup>*<\sup>)
 
 ### 2019
 * Lu, J., **Cao, Z.<sup>*</sup>**, Gao, F. (2018). [Multi-point iterative learning model predictive control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
