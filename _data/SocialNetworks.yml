@@ -18,12 +18,12 @@ github:
 
 google:
   name: "Google Scholar"
-  baseURL: "https://scholar.google.com"
+  baseURL: "https://scholar.google.com/"
   icon: "fa-goodreads"
   
 researchgate:
   name: "ResearchGate"
-  baseURL: "https://www.researchgate.net"
+  baseURL: "https://www.researchgate.net/"
   icon: "fa-researchgate"
   
 twitter:
