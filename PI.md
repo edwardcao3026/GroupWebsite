@@ -36,20 +36,20 @@ bigimg: /img/Wuzhen2.png
   
 ### Awards
 * BEng. period:
- * National Scholarship of Ministry of Education of China
+  * National Scholarship of Ministry of Education of China
  
 * PhD period:
- * Hong Kong PhD Fellowship
- * Oversea Research Award
- * Chan & Wong Best Postgraduate Award _(Award committee chairman: Professor [Guohua Chen](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html) FAIChE)_
+  * Hong Kong PhD Fellowship
+  * Oversea Research Award
+  * Chan & Wong Best Postgraduate Award _(Award committee chairman: Professor [Guohua Chen](https://www.polyu.edu.hk/ppoffice/president/avprsghc.html) FAIChE)_
  
 * Postdoctoral period:
- * Outstanding Reviewer of Journal:
+  * Outstanding Reviewer of Journal:
   * _ISA Transactions_
   * _Chemometrics and Intelligent Laboratory Systems_
   * _Journal of Process Control_
   * _Industrial & Engineering Chemistry Research_
- * Seal of Excellence, H2020 Marie Sklodowska Curie Actions
+  * Seal of Excellence, H2020 Marie Sklodowska Curie Actions
 
 * PI period:
- * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
+  * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
