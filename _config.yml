@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Cao Group s
+title: Cao Group
 
 # Short description of your site
 description: East China University of Science and Technology, Shanghai
@@ -20,12 +20,11 @@ description: East China University of Science and Technology, Shanghai
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "PI"
   People:
-    - PI: "PI"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Publication:
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Gourp Member: "Member"
+    - Research: "Research"
+  Publication: "Publication"
   Contact: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
