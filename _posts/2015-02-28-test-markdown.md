@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Postoc opportunities
+subtitle: Joint with Professor Ramon Grima, the Univeristy of Edinburgh
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Postdoc][Vancancy]
 comments: true
 ---
 
