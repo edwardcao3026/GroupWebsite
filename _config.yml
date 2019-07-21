@@ -4,7 +4,7 @@
 title: Cao Group
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Zhixing Cao's group @ East China University of Science and Technology, Shanghai
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 page-img: "/img/bgimage.png"
-
+bigimg: "/img/Wuzhen1.jpeg"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
