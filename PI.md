@@ -76,3 +76,10 @@ bigimg: /img/Wuzhen2.png
   * Stephen Duncan's Group, Univeristy of Oxford, 2017
   * Departmental Seminar, CBME, Hong Kong Univeristy of Science and Technology, 2017
   * Johan Paulsson's Group, Harvard Medical School, 2017
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
