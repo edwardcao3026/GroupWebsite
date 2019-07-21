@@ -35,9 +35,13 @@ bigimg: /img/Wuzhen4.png
 
 * **Cao, Z.**, Zhang, R., Yang, Y., Lu, J., Gao, F. (2016). [Discrete-time robust iterative learning Kalman filtering for repetitive processes](https://ieeexplore.ieee.org/abstract/document/7109128). _IEEE Transactions on Automatic Control_, 61(1), 270-275.
 
+* Lu, J., **Cao, Z.**, Gao, F. (2016). [Ellipsoid invariant set-based robust model predictive control for repetitive processes with constraints](https://ieeexplore.ieee.org/document/7470427). _IET Control Theory & Applications_, 10(9), 1018-1026.
+
 ### 2015
 
 * **Cao, Z.**, Yang, Y., Lu, J., Gao, F. (2015). [Two-time-dimensional model predictive control of weld line positioning in bi-injection molding](https://pubs.acs.org/doi/abs/10.1021/ie5041397). _Industrial & Engineering Chemistry Research_, 54(17), 4795-4804.
+
+* Zhang, R., **Cao, Z.**, Lu, R., Li, P., Gao, F. (2015). [State-space predictive-p control for liquid level in an industrial coke fractionation tower](https://ieeexplore.ieee.org/abstract/document/6818446). _IEEE Transactions on Automation Science and Engineering, 12(4), 1516-1524.
 
 ### 2014
 * **Cao, Z.**, Yang, Y., Lu, J., Gao, F. (2014). [Constrained two dimensional recursive least squares model identification for batch processes](https://www.sciencedirect.com/science/article/pii/S095915241400095X). _Journal of Process Control_, 24(6), 871-879.
