@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Postoc opportunities
-subtitle: Joint with Professor Ramon Grima, the Univeristy of Edinburgh
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+title: "Postoc opportunities"
+subtitle: "Joint with Professor Ramon Grima, the Univeristy of Edinburgh"
 tags: [Postdoc][Vancancy]
 comments: true
 ---
