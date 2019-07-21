@@ -4,8 +4,11 @@ title: "Curriculum Vitae"
 subtitle: "Hometown: Tongxiang, Zhejiang"
 bigimg: /img/Wuzhen2.png
 ---
-## Zhixing Cao (Edward), Professor, PhD
+## Zhixing Cao (Edward), Professor
 ## 曹志兴，教授，博导
+
+
+
 
 ### Background
 * BEng _(2008-2012)_
@@ -36,7 +39,9 @@ bigimg: /img/Wuzhen2.png
 * Professor & PI _(2019-present)_
   * **East China Univeristy of Science and Technology**
   * College of Information Science and Engineering
-  
+
+
+
 ### Awards
 * BEng. period:
   * National Scholarship of Ministry of Education of China
@@ -56,11 +61,15 @@ bigimg: /img/Wuzhen2.png
 
 * PI period:
   * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
-  
+
+
+
 ### Professional Service
   * Member of Society of Plastics Engineers
   * Guest Editor of _Journal of Control Science and Engineering_
   * Reviewer of _IEEE TAC, IEEE TIE, IEEE TBME, IEEE TCST, J Royal Soc Interface, J Process Contr, Ind Eng Chem Res, ISA T, Chemom Intell Lab Syst, Comput Chem Eng, Can J Chem Eng, Math Biosci, Algorithms, Processes, Sensors and Conferences CDC, ACC, IFAC WC._
+
+
 
 ### Invited Talks
   * **Tenure-track talk** at Department of Chemical Engineering, University of Waterloo, 2019
