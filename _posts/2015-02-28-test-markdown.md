@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Postoc opportunities"
-subtitle: "Joint with Professor Ramon Grima, the Univeristy of Edinburgh"
-tags: [Postdoc][Vancancy]
+title: Postoc opportunities
+subtitle: Joint with Professor Ramon Grima, the Univeristy of Edinburgh
+tags: [Postdoc,Vancancy]
 comments: true
 ---
 
