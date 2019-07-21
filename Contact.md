@@ -15,6 +15,7 @@ East China University of Science and Technology
 ### Email  
 zcao (at) ecust (dot) edu (dot) cn
 
-##### Photograph
-Courtesy of Y. Shi and R. Shen
+
+
+##### Photograph (of Wuzhen, Tongxiang) courtesy of Y. Shi and R. Shen
 
