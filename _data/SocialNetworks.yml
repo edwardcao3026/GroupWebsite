@@ -19,7 +19,7 @@ github:
 google:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-goodreads"
+  icon: "fa-google"
   
 researchgate:
   name: "ResearchGate"
