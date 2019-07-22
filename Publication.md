@@ -6,8 +6,19 @@ bigimg: /img/Wuzhen4.png
 ## Peer-reviewed Journal Publication
 (Corresponding authorship is denoted by <sup>*</sup> )
 
+### Submitted
+* **Cao, Z.**, Filatova, T., Ozaryun, D., Grima, R. (2019). Exact solution of a stochastic model of multi-scale transcriptional bursting. _(Submitted)_.
+
+* **Cao, Z.**, Grima, R. (2019). Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells. _(Submitted)_.
+
+* Holehouse J., **Cao, Z.**, Grima, R. (2019). Revisiting the reduction of stochastic models of genetic feedback loops under fast promoter switching conditions. _(Submitted)_.
+
+* Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2019). Optimal Iterative Learning Control for Batch Processes in the Presence of Time-varying Dynamics. _(Submitted)_.
+
+* Lu, J., **Cao, Z.**, Zhao, C., Gao, F. (2019). Learning-based model predictive control for batch process: an overview. _(Submitted)_.
+
 ### 2019
-* Lu, J., **Cao, Z.<sup>*</sup>**, Gao, F. (2018). [Multi-point iterative learning model predictive control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
+* Lu, J., **Cao, Z.<sup>*</sup>**, Gao, F. (2019). [Multi-point iterative learning model predictive control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
 
 * **Cao, Z.**, Grima, R. (2019). [Accuracy of parameter estimation for auto-regulatory transcriptional feedback loops from noisy data](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2018.0967). _Journal of the Royal Society Interface_, 16(153), 20180967.
 
