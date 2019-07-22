@@ -11,7 +11,7 @@ bigimg: /img/Wuzhen4.png
 
 * **Cao, Z.**, Grima, R. (2019). Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells. _(Submitted)_.
 
-* Holehouse J., **Cao, Z.**, Grima, R. (2019). Revisiting the reduction of stochastic models of genetic feedback loops under fast promoter switching conditions. _(Submitted)_.
+* Holehouse J., **Cao, Z.**, Grima, R. (2019). Stochastic feedback loops in gene regulatory networks. _(Submitted)_.
 
 * Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2019). Optimal Iterative Learning Control for Batch Processes in the Presence of Time-varying Dynamics. _(Submitted)_.
 
