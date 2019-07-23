@@ -19,7 +19,7 @@ github:
 google:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fab fa-google"
+  icon: "fab fa-goodreads"
   
 researchgate:
   name: "ResearchGate"
@@ -39,7 +39,7 @@ reddit:
 email:
   name: "Email me"
   baseURL: "mailto:"
-  icon: "fab fa-envelope"
+  icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
