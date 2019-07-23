@@ -5,36 +5,35 @@ subtitle: "Hometown: Tongxiang, Zhejiang"
 bigimg: /img/Wuzhen2.png
 ---
 ## Zhixing Cao (Edward), Professor
-## 曹志兴, 教授, 博士生导师 (1990年1月，浙江桐乡)
 
 ### Background
 * BEng _(2008-2012)_
-  * **Zhejiang University (浙江大学本科)**
+  * **Zhejiang University**
   * Department of Control Science and Engineering
   * _GPA: 3.95/4, Rank: 2/118_
   
 * PhD _(2012-2016)_
-  * **Hong Kong University of Science and Technology (香港科技大学博士)**
+  * **Hong Kong University of Science and Technology**
   * Department of Chemical and Biomolecular Engineering
   * _Advised by_ Professor [Furong Gao](https://cbe.ust.hk/kefgao.html)
   
 * Visitor _(2015.2-2015.5)_
-  * **University of Stuttgart (斯图加特大学访问学者)**
+  * **University of Stuttgart**
   * Institute of Systems Theory and Automatic Control
   * _Hosted by_: Professor [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/), Professor [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/)
   
 * Postdoctoral Fellow _(2016-2017)_
-  * **Harvard University (哈佛大学博士后)**
+  * **Harvard University**
   * John A. Paulson School of Engineering and Applied Sciences
   * _Hosted by_: Professor Francis J. Doyle III
   
-* Postdoctoral Fellow(博士后) _(2017-2019)_
-  * **The University of Edinburgh (爱丁堡大学博士后)**
+* Postdoctoral Fellow _(2017-2019)_
+  * **The University of Edinburgh**
   * School of Biological Sciences
   * _Hosted by_: Professor [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html), Dr. [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/), Professor [Peter Swain](http://swainlab.bio.ed.ac.uk)
   
 * Professor & PI _(2019-present)_
-  * **East China Univeristy of Science and Technology (华东理工大学教授)**
+  * **East China Univeristy of Science and Technology**
   * College of Information Science and Engineering
 
 
@@ -57,7 +56,7 @@ bigimg: /img/Wuzhen2.png
   * Seal of Excellence, H2020 Marie Sklodowska Curie Actions
 
 * PI period:
-  * **1000 Plan Professorship for Young Talents (中组部青年千人计划)**
+  * **1000 Plan Professorship for Young Talents**
 
 
 
