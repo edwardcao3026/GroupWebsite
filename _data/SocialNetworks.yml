@@ -39,7 +39,7 @@ reddit:
 email:
   name: "Email me"
   baseURL: "mailto:"
-  icon: "fa-envelope"
+  icon: "fas fa-envelope"
 
 linkedin:
   name: "LinkedIn"
