@@ -20,7 +20,7 @@ description: Edward Cao
 
 # List of links in the navigation bar
 navbar-links:
-  中文： "https://edwardcao3025.github.io"
+  中文: "https://edwardcao3025.github.io"
   About Me: "PI"
   Research: 
     - Project: "Project"
