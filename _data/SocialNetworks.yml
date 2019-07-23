@@ -84,7 +84,7 @@ telephone:
 rss:
   name: "RSS"
   baseURL: "{{ '/feed.xml' | relative_url }}"
-  icon: "fab fa-rss"
+  icon: "fas fa-rss"
 
 steam:
   name: "Steam"
