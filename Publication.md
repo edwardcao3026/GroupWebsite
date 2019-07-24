@@ -37,7 +37,7 @@ bigimg: /img/Wuzhen4.png
 ### 2017
 * **Cao, Z.**, Dürr, H. B., Ebenbauer, C., Allgöwer, F., Gao, F. (2017). [Iterative learning and extremum seeking for repetitive time-varying mappings](https://ieeexplore.ieee.org/abstract/document/7762820). _IEEE Transactions on Automatic Control_, 62(7), 3339-3353.
 
-* Lu, J., **Cao, Z.**, Gao, F. (2017). [Batch process control-overview and outlook](http://www.aas.net.cn/CN/abstract/abstract19071.shtml). _Acta Automatica Sinica_, 43(6), 933-943.
+* Lu, J., **Cao, Z.**, Gao, F. (2017). [Batch process control-overview and outlook](https://docs.google.com/viewer?url=https://edwardcao3025.github.io/img/BatchProcessControl.pdf). _Acta Automatica Sinica_, 43(6), 933-943.
 
 * Zhang, R., Zou, Q., **Cao, Z.**, Gao, F. (2017). [Design of fractional order modeling based extended non-minimal state space MPC for temperature in an industrial electric heating furnace](https://www.sciencedirect.com/science/article/pii/S0959152417300951). _Journal of Process Control_, 56, 13-22.
 
