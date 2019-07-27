@@ -11,7 +11,7 @@ bigimg: /img/Wuzhen5.png
 
 ### Europe
 * Prof. [Ramon Grima](http://grimagroup.bio.ed.ac.uk/ramongrima.html), the University of Edinburgh, UK
-* Prof. [Diego A. Ozaryun](http://homepages.inf.ed.ac.uk/doyarzun/), the University of Edinburgh, UK
+* Prof. [Diego A. Oyarzun](http://homepages.inf.ed.ac.uk/doyarzun/), the University of Edinburgh, UK
 * Prof. [Peter Swain](http://swainlab.bio.ed.ac.uk), the University of Edinburgh, UK
 * Prof. [Frank Allgower](https://www.ist.uni-stuttgart.de/institute/team/Allgoewer-00006/), University of Stuttgart, Germany
 * Prof. [Christian Ebenbauer](https://www.ist.uni-stuttgart.de/institute/team/Ebenbauer-00002/), University of Stuttgart, Germany
