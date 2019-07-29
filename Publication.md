@@ -7,7 +7,7 @@ bigimg: /img/Wuzhen4.png
 (Corresponding authorship is denoted by <sup>*</sup> )
 
 ### Submitted
-* **Cao, Z.**, Filatova, T., Oyarzun, D., Grima, R. (2019). Multi-scale bursting in stochastic gene expression. _(Submitted)_.
+* **Cao, Z.**, Filatova, T., Oyarzun, D., Grima, R. (2019). [Multi-scale bursting in stochastic gene expression](https://www.biorxiv.org/content/10.1101/717199v1). _(Submitted)_.
 
 * **Cao, Z.**, Grima, R. (2019). Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells. _(Submitted)_.
 
