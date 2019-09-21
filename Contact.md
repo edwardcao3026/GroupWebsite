@@ -15,6 +15,6 @@ zcao (at) ecust (dot) edu (dot) cn
 
 
 
-##### Photograph (of Wuzhen, Tongxiang) by courtesy of Y. Shi and R. Shen
+##### Photograph (of Wuzhen, Tongxiang) by courtesy of R. Shen
 ![](/img/hometown.png)
 
