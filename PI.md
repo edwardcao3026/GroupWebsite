@@ -2,7 +2,7 @@
 layout: page
 title: "Curriculum Vitae"
 subtitle: "Hometown: Tongxiang, Zhejiang"
-bigimg: /img/Wuzhen2.png
+bigimg: /img/Wuzhen1.png
 ---
 ## Zhixing Cao (Edward), Professor
 
