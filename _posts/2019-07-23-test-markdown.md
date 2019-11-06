@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Postdoc Opportunities
+title: Two Postdoc Opportunities
 subtitle: Joint with Professor Ramon Grima, the Univeristy of Edinburgh
 tags: [Postdoc,Vancancy]
 comments: true
 ---
 
-We have two postdoc openings. The postdocs will mainly stay at the University of Edinburgh with at least two-month visit in Shanghai; the expenses of Sino-UK trips will be covered. Hence, it will be a great opportunity for candidates who are intested in working in different enviroment. If you are interested in, please email either me or Professor Ramon Grima.
+An exciting interdisciplinary research opportunity has arisen as a collaboration between the groups of Prof. Ramon Grima (University of Edinburgh, UK) and Prof. Zhixing Cao (East China University of Science and Technology, Shanghai, China).  Applications are invited for two postdoctoral research associate positions, each available for 24 months and starting not later than May 2020. The successful applicants will develop realistic models of stochastic gene expression in mammalian cells that incorporate a multitude of complex phenomena such as gene replication, binomial partitioning due to cell division, dosage compensation, growth-dependent dynamics, maturation of nascent mRNA to mature mRNA, complex mRNA degradation pathways, macromolecular crowding and transcriptional feedback loops. The aim is to use a variety of coarse-graining techniques to derive reduced spatial and non-spatial stochastic models which be solved analytically and which hence yield quantitative insight into how complex biochemical processes affect the fluctuations of protein and mRNA numbers inside a cell. These models will also be used to develop machine learning algorithms to interpret single cell data. These positions are ideal for those with a PhD in mathematics/physics/computer sciences, particularly those who have previous experience solving approximately the chemical master equation. A keen interest in understanding the underlying biology is essential, though detailed knowledge of cell biology is not necessary. The positions are flexible with respect to location: the successful applicants can choose to be based completely at the University of Edinburgh or at East China University of Science and Technology or else to spend a part of their time in each university. Review of applications will begin in December 2019 and continue until the position is filled. Enquiries should be directed to Prof. Ramon Grima (ramon.grima@ed.ac.uk) or Prof. Zhixing Cao (zcao@ecust.edu.cn).
 
