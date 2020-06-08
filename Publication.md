@@ -12,12 +12,16 @@ bigimg: /img/Wuzhen4.png
 * Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2019). Optimal Iterative Learning Control for Batch Processes in the Presence of Time-varying Dynamics. _(Submitted)_.
 
 ### 2020
-* Holehouse J., **Cao, Z.**, Grima, R. (2019). Stochastic feedback loops in gene regulatory networks. _Biophysical Journal_. (Accepted)
 
-* **Cao, Z.**, Grima, R. (2020). [Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells](https://www.pnas.org/content/early/2020/02/11/1910888117). _Proceedings of the National Academy of Science of the United States of America_.
+* **Cao, Z.<sup>*</sup>**, Yu, J., Wang W., Lu H., Xia X., Xu H., Yang X., Bao L., Zhang Q., Wang H., Zhang S., Zhang L. (2020). [Multi-scale data-driven engineering for biosynthetic titer improvement](https://www.sciencedirect.com/science/article/pii/S0958166920300549). _Current Opinion in Biotechnology_, 65, 205-212.
+
+
+* Holehouse J., **Cao, Z.**, Grima, R. (2020). Stochastic feedback loops in gene regulatory networks. _Biophysical Journal_, 118, 1517-1525.
+
+* **Cao, Z.**, Grima, R. (2020). [Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells](https://www.pnas.org/content/early/2020/02/11/1910888117). _Proceedings of the National Academy of Science of the United States of America_, 117(9), 4682-4692.
 
 ### 2019
-* Lu, J., **Cao, Z.<sup>*</sup>**, Zhao, C., Gao, F. (2019). [110th Anniversary: An Overview on Learning-Based Model Predictive Control for Batch Processes](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02370). _Industrial & Engineering Chemistry Research_, 58(37), 17164-17173.
+* Lu, J., **Cao, Z.<sup>*</sup>**, Zhao, C., Gao, F. (2019). [110th Anniversary: an overview on learning-based model predictive control for batch processes](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b02370). _Industrial & Engineering Chemistry Research_, 58(37), 17164-17173.
 * Lu, J., **Cao, Z.<sup>*</sup>**, Gao, F. (2019). [Multi-point iterative learning model predictive control](https://ieeexplore.ieee.org/abstract/document/8482502). _IEEE Transactions on Industrial Electronics_, 66(8), 6230-6240.
 
 * **Cao, Z.**, Grima, R. (2019). [Accuracy of parameter estimation for auto-regulatory transcriptional feedback loops from noisy data](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2018.0967). _Journal of the Royal Society Interface_, 16(153), 20180967.
