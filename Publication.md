@@ -6,7 +6,7 @@ bigimg: /img/Wuzhen4.png
 ## Peer-reviewed Journal Publication
 (Corresponding authorship is denoted by <sup>*</sup> )
 
-### 在投论文
+### Submitted
 * **Cao, Z.**, Filatova, T., Oyarzun, D., Grima, R. (2019). [Multi-scale bursting in stochastic gene expression](https://www.biorxiv.org/content/10.1101/717199v1). _(Submitted)_.
 
 * Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2019). Optimal Iterative Learning Control for Batch Processes in the Presence of Time-varying Dynamics. _(Submitted)_.
