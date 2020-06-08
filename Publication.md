@@ -15,7 +15,6 @@ bigimg: /img/Wuzhen4.png
 
 * **Cao, Z.<sup>*</sup>**, Yu, J., Wang W., Lu H., Xia X., Xu H., Yang X., Bao L., Zhang Q., Wang H., Zhang S., Zhang L. (2020). [Multi-scale data-driven engineering for biosynthetic titer improvement](https://www.sciencedirect.com/science/article/pii/S0958166920300549). _Current Opinion in Biotechnology_, 65, 205-212.
 
-
 * Holehouse J., **Cao, Z.**, Grima, R. (2020). Stochastic feedback loops in gene regulatory networks. _Biophysical Journal_, 118, 1517-1525.
 
 * **Cao, Z.**, Grima, R. (2020). [Analytical distributions for detailed models of stochastic gene expression in eukaryotic cells](https://www.pnas.org/content/early/2020/02/11/1910888117). _Proceedings of the National Academy of Science of the United States of America_, 117(9), 4682-4692.
