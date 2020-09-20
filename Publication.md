@@ -7,11 +7,10 @@ bigimg: /img/Wuzhen4.png
 (Corresponding authorship is denoted by <sup>*</sup> )
 
 ### Submitted
-* **Cao, Z.**, Filatova, T., Oyarzun, D., Grima, R. (2019). [Multi-scale bursting in stochastic gene expression](https://www.biorxiv.org/content/10.1101/717199v1). _(Submitted)_.
-
 * Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2019). Optimal Iterative Learning Control for Batch Processes in the Presence of Time-varying Dynamics. _(Submitted)_.
 
 ### 2020
+* **Cao, Z.**, Filatova, T., Oyarzun, D., Grima, R. (2020). [A stochastic model of gene expression with polymerase recruitment and pause release](https://www.sciencedirect.com/science/article/abs/pii/S0006349520305841). _Biophysical Journal_, 119(5), 1002-1014.
 
 * **Cao, Z.<sup>*</sup>**, Yu, J., Wang W., Lu H., Xia X., Xu H., Yang X., Bao L., Zhang Q., Wang H., Zhang S., Zhang L. (2020). [Multi-scale data-driven engineering for biosynthetic titer improvement](https://www.sciencedirect.com/science/article/pii/S0958166920300549). _Current Opinion in Biotechnology_, 65, 205-212.
 
