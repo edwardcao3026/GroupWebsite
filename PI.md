@@ -36,8 +36,6 @@ bigimg: /img/Wuzhen1.png
   * **East China Univeristy of Science and Technology**
   * College of Information Science and Engineering
 
-
-
 ### Awards
 * BEng. period:
   * National Scholarship of Ministry of Education of China
@@ -59,7 +57,7 @@ bigimg: /img/Wuzhen1.png
   * **1000 Plan Professorship for Young Talents**
 
 ### Research Grants
-  * **Natural Science Fundation of China (NSFC Grant. 62073137, RMB 590,000, 2021.1~2024.12)
+  * **Natural Science Fundation of China (NSFC Grant. 62073137, RMB 590,000, 2021.1~2024.12)**
 
 ### Professional Service
   * Member of Zhejiang Talent Association, Shanghai
