@@ -58,9 +58,12 @@ bigimg: /img/Wuzhen1.png
 * PI period:
   * **1000 Plan Professorship for Young Talents**
 
-
+### Research Grant
+  * National Natural Science Fundation of China (NSFC Grant. 62073137, RMB 590,000, 2021.1~2024.12)
 
 ### Professional Service
+  * Member of Zhejiang Talent Association, Shanghai
+  * Member of Technical Committee on Process Control, Chinese Association of Automation 
   * Member of Society of Plastics Engineers
   * Guest Editor of _Journal of Control Science and Engineering_
   * Reviewer of _IEEE TAC, IEEE TIE, IEEE TBME, IEEE TCST, J Royal Soc Interface, J Process Contr, Ind Eng Chem Res, ISA T, Chemom Intell Lab Syst, Comput Chem Eng, Can J Chem Eng, Math Biosci, Algorithms, Processes, Sensors and Conferences CDC, ACC, IFAC WC._
