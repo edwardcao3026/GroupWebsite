@@ -58,7 +58,7 @@ bigimg: /img/Wuzhen1.png
 * PI period:
   * **1000 Plan Professorship for Young Talents**
 
-### Research Grant
+### Research Grants
   * Natural Science Fundation of China (NSFC Grant. 62073137, RMB 590,000, 2021.1~2024.12)
 
 ### Professional Service
