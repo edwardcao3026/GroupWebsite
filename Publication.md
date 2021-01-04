@@ -7,9 +7,11 @@ bigimg: /img/Wuzhen4.png
 (Corresponding authorship is denoted by <sup>*</sup> )
 
 ### Submitted
-* Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2019). Optimal Iterative Learning Control for Batch Processes in the Presence of Time-varying Dynamics. _(Submitted)_.
+* Jiang, Q., Fu, X., Yan, S., Li, R., Du, W., **Cao, Z.<sup>*</sup>**, Qian, F., Grima, R. [Neural network aided approximation and parameter inference of stochastic models of gene expression](https://www.biorxiv.org/content/10.1101/2020.12.15.422883v1) _(Submitted)_
 
 ### 2020
+* Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2020). [Optimal iterative learning control for batch processes in the presence of time-varying dynamics](https://ieeexplore.ieee.org/document/9253587) _(Accepted)_.
+
 * **Cao, Z.**, Filatova, T., Oyarzun, D., Grima, R. (2020). [A stochastic model of gene expression with polymerase recruitment and pause release](https://www.sciencedirect.com/science/article/abs/pii/S0006349520305841). _Biophysical Journal_, 119(5), 1002-1014.
 
 * **Cao, Z.<sup>*</sup>**, Yu, J., Wang W., Lu H., Xia X., Xu H., Yang X., Bao L., Zhang Q., Wang H., Zhang S., Zhang L. (2020). [Multi-scale data-driven engineering for biosynthetic titer improvement](https://www.sciencedirect.com/science/article/pii/S0958166920300549). _Current Opinion in Biotechnology_, 65, 205-212.
