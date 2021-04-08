@@ -7,7 +7,7 @@ bigimg: /img/Wuzhen4.png
 (Corresponding authorship is denoted by <sup>*</sup> )
 
 ### Featured
-* Jiang, Q., Fu, X., Yan, S., Li, R., Du, W., **Cao, Z.<sup>*</sup>**, Qian, F., Grima, R. (2021) [Neural network aided approximation and parameter inference of stochastic models of gene expression](https://www.biorxiv.org/content/10.1101/2020.12.15.422883v1) _(Submitted)_.
+* Jiang, Q., Fu, X., Yan, S., Li, R., Du, W., **Cao, Z.<sup>*</sup>**, Qian, F., Grima, R. (2021) [Neural network aided approximation and parameter inference of non-Markovian models of gene expression](https://www.biorxiv.org/content/10.1101/2020.12.15.422883v1) _(Accepted by Nature Communications)_.
 
 ### 2020
 * Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2020). [Optimal iterative learning control for batch processes in the presence of time-varying dynamics](https://ieeexplore.ieee.org/document/9253587) _(Accepted)_.
