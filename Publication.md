@@ -7,7 +7,7 @@ bigimg: /img/Wuzhen4.png
 (Corresponding authorship is denoted by <sup>*</sup> )
 
 ### Featured
-* Jiang, Q., Fu, X., Yan, S., Li, R., Du, W., **Cao, Z.<sup>*</sup>**, Qian, F., Grima, R. (2021) [Neural network aided approximation and parameter inference of non-Markovian models of gene expression](https://www.biorxiv.org/content/10.1101/2020.12.15.422883v1) _(Accepted by Nature Communications)_.
+* Jiang, Q., Fu, X., Yan, S., Li, R., Du, W., **Cao, Z.<sup>*</sup>**, Qian, F., Grima, R. (2021) [Neural network aided approximation and parameter inference of non-Markovian models of gene expression](https://www.biorxiv.org/content/10.1101/2020.12.15.422883v1) _(Accepted by Nature Communications)_. [(Codes)](https://github.com/edwardcao3026/NN-CME)
 
 ### 2020
 * Lu, J., **Cao, Z.<sup>*</sup>**, Hu, Q., Xu, Z., Gao, F. (2020). [Optimal iterative learning control for batch processes in the presence of time-varying dynamics](https://ieeexplore.ieee.org/document/9253587) _(Accepted)_.
@@ -27,7 +27,7 @@ bigimg: /img/Wuzhen4.png
 * **Cao, Z.**, Grima, R. (2019). [Accuracy of parameter estimation for auto-regulatory transcriptional feedback loops from noisy data](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2018.0967). _Journal of the Royal Society Interface_, 16(153), 20180967.
 
 ### 2018
-* **Cao, Z.**, Grima, R. (2018). [Linear mapping approximation of gene regulatory networks with stochastic dynamics](https://www.nature.com/articles/s41467-018-05822-0.pdf). _Nature communications_, 9(1), 3305. (IF 12.353)
+* **Cao, Z.**, Grima, R. (2018). [Linear mapping approximation of gene regulatory networks with stochastic dynamics](https://www.nature.com/articles/s41467-018-05822-0.pdf). _Nature communications_, 9(1), 3305. (IF 12.353) [(Codes)](https://github.com/edwardcao3026/Linear-mapping-approximation)
 
 * Lu, J., **Cao, Z.<sup>*</sup>**, Zhang, R., Gao, F. (2017). [Nonlinear monotonically convergent iterative learning control for batch processes](https://ieeexplore.ieee.org/abstract/document/8186203). _IEEE Transactions on Industrial Electronics_, 65(7), 5826-5836.
 
