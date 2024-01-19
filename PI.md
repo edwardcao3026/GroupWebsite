@@ -34,7 +34,7 @@ bigimg: /img/Wuzhen1.png
   
 * Professor & PI _(2019-present)_
   * **East China Univeristy of Science and Technology**
-  * College of Information Science and Engineering
+  * School of Artificial Intelligence
 
 ### Awards
 * BEng. period:
