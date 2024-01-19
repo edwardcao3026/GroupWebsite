@@ -4,8 +4,6 @@ title: "Collaborators & Coauthors"
 bigimg: /img/Wuzhen5.png
 ---
 ### China
-* Prof. [Feng Qian](http://cise.ecust.edu.cn/7763/list.htm), (Academician of Chinese Academy of Engineering)
-* Prof. [Wenli Du](http://cise.ecust.edu.cn/2016/1020/c7783a56928/page.htm)
 * Prof. [Furong Gao](https://cbe.ust.hk/cgi-bin/facultydetails.php?people_email=kefgao), Hong Kong Univeristy of Science and Technology
 * Prof. [Chunhui Zhao](http://mypage.zju.edu.cn/chhzhao), Zhejiang University
 
